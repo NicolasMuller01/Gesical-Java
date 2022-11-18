@@ -1,0 +1,12 @@
+Musico\Cancion.class
+Instrumento\Instrumento.class
+Instrumento\Teclado.class
+Instrumento\Guitarra.class
+Gesical\Gesical.class
+Instrumento\Bateria.class
+Musico\Banda.class
+Instrumento\Tocable.class
+Musico\Solista.class
+Musico\Disco.class
+Instrumento\Bajo.class
+Musico\Musico.class
