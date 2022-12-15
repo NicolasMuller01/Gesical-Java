@@ -495,5 +495,4 @@ public class Gesical {
       System.out.println("Cerrando Aplicacion");
       System.out.println("Aplicacion cerrada");
     }
-        
 }
